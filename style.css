@@ -1,0 +1,41 @@
+/*
+Theme Name: Newsphere Child
+Theme URL: http://hostinger-tutorials.com
+Description: Newsphere Child Theme
+Author: John Doe
+Author URL: http://hostinger-tutorials.com
+Template: newsphere
+Version: 1.0.4
+Text Domain: newsphere-child
+*/
+
+/* text farve */
+.aft-trending-latest-popular .nav-tabs>li>a,
+.aft-main-banner-section .color-pad .cat-links li a.newsphere-categories.category-color-1,
+.aft-main-banner-section .color-pad .read-title h4 a,
+#sidr .widget > ul > li a, #secondary .widget > ul > li a
+p, a, h1, h2, h3, h4, h5 {
+  color: #E5CD19;
+}
+a:hover{
+  color: #aaa;
+}
+
+.aft-trending-latest-popular .nav-tabs>li.active,
+.aft-home-icon {
+  background-color: #E5CD19;
+}
+
+body.custom-background,
+body.aft-default-mode #secondary .widget-area.color-pad .widget,
+blockquote:before {
+  background-color: #323232;
+}
+
+blockquote:after{
+
+}
+
+#sidr {
+    width: auto;
+}
