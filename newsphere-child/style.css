@@ -13,7 +13,7 @@ Text Domain: newsphere-child
 .aft-trending-latest-popular .nav-tabs>li>a,
 .aft-main-banner-section .color-pad .cat-links li a.newsphere-categories.category-color-1,
 .aft-main-banner-section .color-pad .read-title h4 a,
-#sidr .widget > ul > li a, #secondary .widget > ul > li a
+#sidr .widget > ul > li a, #secondary .widget > ul > li a,
 p, a, h1, h2, h3, h4, h5 {
   color: #E5CD19;
 }
@@ -38,8 +38,7 @@ blockquote:before {
 blockquote:after{
 
 }
-/*
+
 #sidr {
     width: auto;
 }
-*/
