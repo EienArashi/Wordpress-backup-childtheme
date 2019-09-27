@@ -12,9 +12,9 @@ function enqueue_parent_styles() {
 $t = date("H");
 
 if ($t < "20") {
-    echo "Have a good day!";
+    echo '<span style="color:#E5CD19;">Have a good day!</span>';
 } else {
-    echo "Have a good night!";
+    echo '<span style="color:#E5CD19;">Have a good night..!</span>';
 }
 
 //adding custom logo to override WordPress logo.
